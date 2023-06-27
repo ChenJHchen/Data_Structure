@@ -1,0 +1,2 @@
+﻿  test.c
+C:\Users\Chen\Desktop\Code\code_6_27\code_6_27\test.c(91,22): error C2231: “.length”: 左操作数指向“struct”，使用“->”
