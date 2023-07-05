@@ -1,0 +1,6 @@
+﻿  test.c
+C:\Users\Chen\Desktop\Code\code_7_5\code_7_5\test.c(72,7): warning C4047: “=”:“LNODE *”与“LinkList *”的间接级别不同
+C:\Users\Chen\Desktop\Code\code_7_5\code_7_5\test.c(80,21): warning C4013: “malloc”未定义；假设外部返回 int
+C:\Users\Chen\Desktop\Code\code_7_5\code_7_5\test.c(80,42): warning C4312: “类型强制转换”: 从“int”转换到更大的“LNODE *”
+C:\Users\Chen\Desktop\Code\code_7_5\code_7_5\test.c(84): warning C4715: “ListInsert”: 不是所有的控件路径都返回值
+  code_7_5.vcxproj -> C:\Users\Chen\Desktop\Code\code_7_5\x64\Debug\code_7_5.exe
